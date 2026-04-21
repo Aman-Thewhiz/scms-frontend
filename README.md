@@ -28,11 +28,10 @@ A modern web-based system to manage campus operations including students, facult
 ## 📸 Screenshots
 
 ### Login Page
-![Login](./screenshots/login.png)
+![Login](./screenshots/login.png.jpeg)
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
+![Dashboard](./screenshots/dashboard.png.jpeg)
 ---
 
 ## ⚠️ Backend
